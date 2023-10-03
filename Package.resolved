@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "WeScan",
+        "repositoryURL": "https://github.com/Matribuk/ganesh_up_wescan.git",
+        "state": {
+          "branch": null,
+          "revision": "bdabfcbc38a2bf72d8b0a5a80b2467ae59e8a891",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

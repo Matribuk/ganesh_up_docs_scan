@@ -1,4 +1,4 @@
-import WeScan
+import WeScanPlugin
 import Flutter
 import UIKit
 

@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import WeScan
+import WeScanPlugin
 
 class Utils {
     

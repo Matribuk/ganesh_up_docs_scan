@@ -9,3 +9,4 @@ let package = Package(
         .target(name: "WeScan", dependencies: ["WeScan"]),
     ]
 )
+
